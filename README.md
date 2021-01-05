@@ -1,6 +1,7 @@
 # Projects
 
-Im currently learning Web development .these are my some projects.
+Im currently learning Web development.these are my some projects.
+
 
 
 ### Dating-Quiz- https://github.com/varuogm/Dating-Quiz-
