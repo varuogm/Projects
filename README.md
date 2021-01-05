@@ -40,4 +40,10 @@ welcome to the repo where i share my snaplens files. :octocat:
 
 this is simple PC ball game application. I hope you will love it. (PC exe application)
 ![hii](https://github.com/varuogm/space-Ball-unity-game/blob/master/snip2.jpg)
+..
+
+### Dice number generator https://github.com/varuogm/WEB-development/tree/master/DICE
+![alt text](https://github.com/varuogm/WEB-development/blob/master/DICE/ezgif.com-gif-maker%20(2).gif)
+
+
 
