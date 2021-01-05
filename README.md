@@ -27,12 +27,14 @@ its a normal quiz which your match based on your answers. also a Liam payne song
 
 ### FutureNOte https://github.com/varuogm/FutureNOte
 watch this to keep reminding yourself about something important.
+
 ..
 
 
 ### Snaplens studio  https://github.com/varuogm/Snapchat-lens-creations
-Snapchat lenses 👯
 welcome to the repo where i share my snaplens files. :octocat:
+Lens studio repositories for beginners. Get INSPIRED ,SHARE, STAR . contribute
+
 ..
 
 
@@ -40,8 +42,9 @@ welcome to the repo where i share my snaplens files. :octocat:
 
 this is simple PC ball game application. I hope you will love it. (PC exe application)
 ![hii](https://github.com/varuogm/space-Ball-unity-game/blob/master/snip2.jpg)
-..
 
+..
+ 
 ### Dice number generator https://github.com/varuogm/WEB-development/tree/master/DICE
 ![alt text](https://github.com/varuogm/WEB-development/blob/master/DICE/ezgif.com-gif-maker%20(2).gif)
 
